@@ -114,5 +114,5 @@ npm run dev
 ---
 
 <p align="center">
-  <img src="https://www.magnific.com/free-ai-image/river-landscape-illustration-pixel-art-style_299875919.htm#fromView=keyword&page=1&position=0&uuid=4d7ad6c8-94ba-4c82-8655-ea57cf28aa0f&query=Pixel+art+scenery" alt="Pixel art scenery" width="85%">
+  <img src="img.jpg" alt="Pixel art scenery" width="85%">
 </p>
