@@ -32,7 +32,7 @@ It is useful when teams need:
 <h2><span style="color:#0f766e;">TECH STACK</span></h2>
 
 - **Frontend:** React, TypeScript, Vite
-- **Backend:** FastAPI, Python, SQLAlchemy (Async)
+- **Backend:** FastAPI, Python, SQLAlchemy
 - **Database:** SQLite
 - **Realtime Layer:** WebSockets
 
