@@ -98,11 +98,6 @@ npm install
 npm run dev
 ```
 
-#### ACCESS URLS
-
-- **App:** http://localhost:5173
-- **API Docs:** http://localhost:8000/docs
-
 <h2><span style="color:#b45309;">FUTURE SCOPE</span></h2>
 
 - **Advanced moderation** workflows for larger teams.
