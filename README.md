@@ -1,5 +1,4 @@
 # COLLABORATIVE CHAT
-
 <h2><span style="color:#2563eb;">PROJECT OVERVIEW</span></h2>
 
 **Collaborative Chat** is a **real-time team collaboration platform** designed for project-room discussions where ideas need quick alignment and structured decisions.
