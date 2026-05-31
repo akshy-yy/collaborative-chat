@@ -1,15 +1,5 @@
 # COLLABORATIVE CHAT
 
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Server%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-Realtime-9333EA?style=for-the-badge&logo=socketdotio&logoColor=white">
-</p>
-
 <h2><span style="color:#2563eb;">PROJECT OVERVIEW</span></h2>
 
 **Collaborative Chat** is a **real-time team collaboration platform** designed for project-room discussions where ideas need quick alignment and structured decisions.
@@ -30,6 +20,16 @@ It is useful when teams need:
 - **Clear Chat Action:** Quickly reset room chat when starting a fresh discussion cycle.
 
 <h2><span style="color:#0f766e;">TECH STACK</span></h2>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Server%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-Realtime-9333EA?style=for-the-badge&logo=socketdotio&logoColor=white">
+</p>
 
 - **Frontend:** React, TypeScript, Vite
 - **Backend:** FastAPI, Python, SQLAlchemy
