@@ -106,7 +106,3 @@ npm run dev
 - **Integrations** with external productivity tools.
 
 ---
-
-<p align="center">
-  <img src="img.jpg" alt="Pixel art scenery" width="85%">
-</p>
